@@ -18,22 +18,22 @@
 
 >Nepal's first online doubt solving platform. Hire mentors -> Solve Doubts. The Ultimate e-Learning platform.
 
-### 🏠 [Homepage](https://alphalabnepal.com)
+### 🏠 [Homepage](https://alphalabnepal.com) (In Development Phase)
 
 ## ⚙️ Technologies
 
 
-
+<!-- 
 <i style="margin: 5px; font-size: 65px" class="devicon-react-original-wordmark colored"></i>
 <i style="margin: 5px; font-size: 65px"  class="devicon-nextjs-original-wordmark"></i>
 <i style="margin: 5px; font-size: 65px"  class="devicon-firebase-plain-wordmark colored"></i>
 <i style="margin: 5px; font-size: 65px"  class="devicon-tailwindcss-plain colored"></i>
 <i style="margin: 5px; font-size: 65px"  class="devicon-typescript-plain colored"></i>
 <i style="margin: 5px; font-size: 65px"  class="devicon-redis-plain-wordmark colored"></i>
-<i style="margin: 5px; font-size: 65px"  class="devicon-eslint-original-wordmark colored"></i>
+<i style="margin: 5px; font-size: 65px"  class="devicon-eslint-original-wordmark colored"></i> -->
 
 
-Other: React Hook Form, Recoil, Chakra UI
+Technologies Used: Next JS, Nest JS, React Hook Form, Recoil, Tailwind, Chakra UI, TypeScript, Prisma, GraphQL, PlanetScale
 
 ## 👩‍💻 Author
 
